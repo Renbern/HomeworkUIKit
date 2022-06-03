@@ -13,6 +13,7 @@
 		0426D693284675F4002E817A /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0426D691284675F4002E817A /* Main.storyboard */; };
 		0426D695284675F5002E817A /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0426D694284675F5002E817A /* Assets.xcassets */; };
 		0426D698284675F5002E817A /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0426D696284675F5002E817A /* LaunchScreen.storyboard */; };
+		0426D6A028467801002E817A /* ViewController2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0426D69F28467801002E817A /* ViewController2.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		0426D694284675F5002E817A /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		0426D697284675F5002E817A /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0426D699284675F5002E817A /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		0426D69F28467801002E817A /* ViewController2.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController2.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,8 +59,9 @@
 			isa = PBXGroup;
 			children = (
 				0426D68B284675F4002E817A /* AppDelegate.swift */,
-				0426D68D284675F4002E817A /* SceneDelegate.swift */,
+				0426D69F28467801002E817A /* ViewController2.swift */,
 				0426D68F284675F4002E817A /* ViewController.swift */,
+				0426D68D284675F4002E817A /* SceneDelegate.swift */,
 				0426D691284675F4002E817A /* Main.storyboard */,
 				0426D694284675F5002E817A /* Assets.xcassets */,
 				0426D696284675F5002E817A /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				0426D690284675F4002E817A /* ViewController.swift in Sources */,
+				0426D6A028467801002E817A /* ViewController2.swift in Sources */,
 				0426D68C284675F4002E817A /* AppDelegate.swift in Sources */,
 				0426D68E284675F4002E817A /* SceneDelegate.swift in Sources */,
 			);
