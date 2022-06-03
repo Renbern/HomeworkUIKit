@@ -1,8 +1,8 @@
 //
 //  SceneDelegate.swift
-//  GitHomework
+//  FinalGitTest
 //
-//  Created by Артур Щукин on 30.05.2022.
+//  Created by Артур Щукин on 31.05.2022.
 //
 
 import UIKit
